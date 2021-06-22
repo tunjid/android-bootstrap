@@ -20,7 +20,7 @@ dependencies {
     androidTestImplementation project(':test')
     androidTestImplementation 'org.hamcrest:hamcrest-library:2.2'
     androidTestImplementation 'org.mockito:mockito-android:2.7.22'
-    androidTestImplementation 'org.mockito:mockito-core:2.23.0'
+    androidTestImplementation 'org.mockito:mockito-core:3.11.2'
 
 
     def androidTestExclusions = { lib, pairs ->
