@@ -50,7 +50,7 @@ dependencies {
     androidTestExclusions('androidx.test:core:1.3.0', exclusions)
     androidTestExclusions('androidx.test.ext:junit:1.1.2', exclusions)
     androidTestExclusions('androidx.test:runner:1.3.0', exclusions)
-    androidTestExclusions('androidx.test:rules:1.3.0', exclusions)
+    androidTestExclusions('androidx.test:rules:1.4.0', exclusions)
     androidTestExclusions('androidx.test:runner:1.3.0', exclusions)
     androidTestExclusions('org.robolectric:robolectric:4.5.1', exclusions)
     androidTestExclusions('androidx.test.espresso:espresso-core:3.3.0', exclusions)
